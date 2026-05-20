@@ -104,9 +104,9 @@
 
 <div align="center">
 
-![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deepakchwdhry&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deepakchwdhry&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepakchwdhry&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepakchwdhry&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Deepakchwdhry&theme=tokyonight&hide_border=true)
 
