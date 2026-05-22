@@ -2,7 +2,7 @@
 
 # Hey, I'm Deepak 👋
 
-### AI/ML Engineer · Full Stack Developer · AWS Certified
+### AI/ML Engineer · Full Stack Developer · AWS Certifie
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=AWS+Certified+ML+Associate+%26+Cloud+Practitioner;Building+AI+Agents+%26+Intelligent+Bots;Deep+Learning+%7C+CNN+%7C+RNN+%7C+LSTM+%7C+GRU;Data+Engineering+%26+Visualization;Girl+Script+Summer+of+Code+Contributor)](https://git.io/typing-svg)
 
