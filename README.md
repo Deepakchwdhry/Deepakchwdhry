@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Deepak 👋
+# Hey, I'm Deep 👋
 
 ### AI/ML Engineer · Full Stack Developer · AWS Certified
 
