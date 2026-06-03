@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm De👋
+# Hey, I'm Dee👋
 
 ### AI/ML Engineer · Full Stack Developer · AWS Certified
 
