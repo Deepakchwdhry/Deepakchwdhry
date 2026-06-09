@@ -1,6 +1,16 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Deepak+%F0%9F%91%8B;AWS+Certified+ML+Associate;AWS+Certified+Data+Engineer+Associate;Building+AI+%2B+Full-Stack+Products+%F0%9F%9A%80;Open+to+Internships!" alt="Typing SVG" />
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&height=80&lines=Deepak+Chaudhary" alt="Deepak Chaudhary" />
+</h1>
+
+<h3 align="center" style="color:#94A3B8;">
+  B.Tech CSE (AI) @ KIET &nbsp;|&nbsp; AWS Certified ML & Data Engineer &nbsp;|&nbsp; Open Source
+</h3>
+
+<br/>
+
+> *"The best way to predict the future is to build it with data."*
 
 <br/>
 
@@ -154,7 +164,7 @@
 
 <div align="center">
 
-### 💬 Connect with me
+### 🤝 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-chaudhary-000998327/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepak.2428cseai2445@kiet.edu)
