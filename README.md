@@ -66,7 +66,6 @@
 
 ![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
 ![PyTorch](https://skillicons.dev/icons?i=pytorch)
-![Keras](https://skillicons.dev/icons?i=keras)
 ![OpenCV](https://skillicons.dev/icons?i=opencv)
 ![Sklearn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
