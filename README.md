@@ -143,9 +143,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Deepakchwdhry&theme=tokyonight&hide_border=true&background=0d1117&stroke=3B82F6&ring=3B82F6&fire=FF6B6B&currStreakLabel=3B82F6)
 <br/><br/>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Deepakchwdhry&theme=tokyonight&hide_border=true&background=0d1117&stroke=3B82F6&ring=3B82F6&fire=FF6B6B&currStreakLabel=3B82F6)
-
 </div>
 
 ---
