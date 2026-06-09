@@ -139,10 +139,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Deepakchwdhry&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=3B82F6&icon_color=3B82F6" height="170"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepakchwdhry&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3B82F6&langs_count=8" height="170"/>
-
 <br/><br/>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Deepakchwdhry&theme=tokyonight&hide_border=true&background=0d1117&stroke=3B82F6&ring=3B82F6&fire=FF6B6B&currStreakLabel=3B82F6)
