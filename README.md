@@ -53,7 +53,7 @@
 ---
 <div align="center">
 
-![Banner](./banner.svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=38&pause=2000&color=FF4500&center=true&vCenter=true&width=900&height=100&background=0D111700&lines=%F0%9F%94%A5+TRAIN+HARD.+DEPLOY+HARDER.+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 </div>
 
