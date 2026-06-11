@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center" style="color:#94A3B8;">
-  B.Tech CSE (AI) @ KIET &nbsp;|&nbsp; AWS Certified ML & Data Engineer &nbsp;|&nbsp; Open Source
+  B.Tech C (AI) @ KIET &nbsp;|&nbsp; AWS Certified ML & Data Engineer &nbsp;|&nbsp; Open Source
 </h3>
 
 <br/>
