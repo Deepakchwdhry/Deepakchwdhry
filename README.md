@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&height=80&lines=Deepak+Chaudhary" alt="Deepak Chaudhary" />
 </h1>
 
-<h3 align="center" style="color:#94A3B8;">
+<h3 align="right" style="color:#94A3B8;">
   B.Tech CSE (AI) @ KIET &nbsp;|&nbsp; AWS Certified ML & Data Engineer &nbsp;|&nbsp; Open Source
 </h3>
 
