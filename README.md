@@ -10,7 +10,7 @@
 
 <br/>
 
-> *"The best way to predict the future is to build it with data."*
+> *"The best way to predict the future is to build it with data"*
 
 <br/>
 
